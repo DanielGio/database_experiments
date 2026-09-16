@@ -10,4 +10,4 @@ cursor.execute("""
 
 conn.commit()
 
-conn.close() 
+conn.close()
